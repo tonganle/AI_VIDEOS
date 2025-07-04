@@ -30,7 +30,7 @@
 1. **克隆项目**
 ```bash
 git clone <repository-url>
-cd AI_Truck
+cd AI_VIDEOS
 ```
 
 2. **安装依赖**
