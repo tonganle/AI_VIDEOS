@@ -302,7 +302,7 @@ docker logs ai-video-processor
 
 ## 📞 联系方式
 
-- 邮箱: 798800165@qq.com
+- 邮箱: 876775178@qq.com
 - 项目地址: [GitHub Repository]
 
 ## 🙏 致谢
